@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Yelagiri Hills",
+    "district": "Tirupathur",
+    "category": "hill-station",
+    "description": "A small, affordable hill station with 14 hairpin bends, Punganoor lake boating, orchards and trekking trails on Swamimalai. Quiet and easy for a weekend break from Chennai or Bengaluru.",
+    "budget_level": "low",
+    "best_season": "Oct-Feb",
+    "tags": ["hill station", "budget", "weekend", "trekking", "boating"]
+  },
+  {
+    "name": "Vellore Fort and Jalakandeswarar Temple",
+    "district": "Vellore",
+    "category": "heritage",
+    "description": "A 16th-century fort surrounded by a wide moat, with a Vijayanagara-style temple inside whose carved pillars and mandapam are the highlight. A good history stop with open lawns and a small museum.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["fort", "moat", "history", "temple", "architecture"]
+  },
+  {
+    "name": "Sripuram Golden Temple",
+    "district": "Vellore",
+    "category": "temple",
+    "description": "A modern temple covered in gold, set in a landscaped star-shaped path surrounded by gardens. Calm and spiritual, best visited in the evening when the gold glows under lights.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "gold", "spiritual", "gardens", "evening"]
+  },
+  {
+    "name": "Pulicat Lake Bird Sanctuary",
+    "district": "Tiruvallur",
+    "category": "nature",
+    "description": "One of the largest brackish lagoons in India, with flamingos, pelicans and other migratory birds in the cooler months. Quiet boat trips and an old Dutch cemetery make it a peaceful half-day trip from Chennai.",
+    "budget_level": "low",
+    "best_season": "Nov-Mar",
+    "tags": ["birdwatching", "flamingos", "lagoon", "quiet", "photography"]
+  },
+  {
+    "name": "Elliot's Beach, Besant Nagar",
+    "district": "Chennai",
+    "category": "beach",
+    "description": "A clean, relaxed city beach with cafes, street food and the Ashtalakshmi temple nearby. Calmer than Marina, popular for evening walks and sunrise.",
+    "budget_level": "low",
+    "best_season": "Nov-Feb",
+    "tags": ["beach", "cafes", "city", "sunrise", "relaxed"]
+  },
+  {
+    "name": "Fort St. George",
+    "district": "Chennai",
+    "category": "heritage",
+    "description": "The first English fortress in India, built in 1644 and now home to the state secretariat and a museum of colonial-era artefacts. A compact history stop in central Chennai.",
+    "budget_level": "low",
+    "best_season": "Nov-Feb",
+    "tags": ["fort", "colonial", "museum", "history", "city"]
+  },
+  {
+    "name": "Kolli Hills",
+    "district": "Namakkal",
+    "category": "hill-station",
+    "description": "A remote hill range reached by 70 hairpin bends, with the Agaya Gangai waterfall, herbal gardens and cool, uncrowded forests. Good for travellers who want nature without tourist crowds.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["hill station", "waterfall", "hairpin bends", "quiet", "nature"]
+  },
+  {
+    "name": "Topslip and Anamalai Tiger Reserve",
+    "district": "Coimbatore",
+    "category": "wildlife",
+    "description": "A forest area of teak and bamboo in the Anamalai hills with elephant camps, jeep safaris and chances to see gaur, deer and lion-tailed macaques. Forest department stays make it good for a nature-focused trip.",
+    "budget_level": "medium",
+    "best_season": "Oct-Mar",
+    "tags": ["wildlife", "safari", "elephants", "forest", "tiger reserve"]
+  },
+  {
+    "name": "Adiyogi Statue and Isha Yoga Center",
+    "district": "Coimbatore",
+    "category": "temple",
+    "description": "A huge Shiva bust at the foot of the Velliangiri hills, with the Dhyanalinga meditation hall and quiet grounds. Popular for meditation, yoga programmes and the evening light show.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["meditation", "yoga", "spiritual", "peaceful", "statue"]
+  },
+  {
+    "name": "Marudhamalai Murugan Temple",
+    "district": "Coimbatore",
+    "category": "temple",
+    "description": "A hilltop Murugan temple on the edge of Coimbatore with forested surroundings, steps and a road up. A short, peaceful stop with views over the city and hills.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "hilltop", "Murugan", "views", "peaceful"]
+  },
+  {
+    "name": "Kotagiri",
+    "district": "The Nilgiris",
+    "category": "hill-station",
+    "description": "The quietest of the three main Nilgiri hill towns, with tea estates, Catherine Falls and Kodanad viewpoint. Cool weather and slow, uncrowded sightseeing make it good for relaxed trips.",
+    "budget_level": "medium",
+    "best_season": "Apr-Jun, Sep-Nov",
+    "tags": ["hill station", "tea estates", "quiet", "viewpoint", "cool weather"]
+  },
+  {
+    "name": "Monkey Falls and Aliyar Dam",
+    "district": "Coimbatore",
+    "category": "waterfall",
+    "description": "A forest-fringed waterfall near Pollachi with bathing allowed when the flow is safe, plus Aliyar Dam with gardens and a fish-fry stall culture below. A relaxed day trip combining nature and local food.",
+    "budget_level": "low",
+    "best_season": "Jun-Dec",
+    "tags": ["waterfall", "dam", "bathing", "family", "day trip"]
+  },
+  {
+    "name": "Thirumalai Nayakkar Mahal",
+    "district": "Madurai",
+    "category": "heritage",
+    "description": "A 17th-century palace of the Madurai Nayak king, known for its huge pillars and a vast courtyard with arches. A light-and-sound show is held in the evening.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["palace", "Nayak", "history", "architecture", "evening show"]
+  },
+  {
+    "name": "Alagar Kovil",
+    "district": "Madurai",
+    "category": "temple",
+    "description": "A Vishnu temple set at the foot of a forested hill about 20 km from Madurai, linked to the Chithirai festival. Quiet and green, with a nearby hill shrine, good for pairing with a city day.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "hill", "Vishnu", "quiet", "pilgrimage"]
+  },
+  {
+    "name": "Palani Murugan Temple",
+    "district": "Dindigul",
+    "category": "temple",
+    "description": "One of the most visited Murugan temples, on a hilltop reached by steps, a winch train or a ropeway. Known for the Panchamirtham prasadam and sweeping views of the plains.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "pilgrimage", "hilltop", "Murugan", "winch train"]
+  },
+  {
+    "name": "Pillar Rocks and Guna Caves",
+    "district": "Dindigul",
+    "category": "hill-station",
+    "description": "Three granite cliffs rising about 120 metres near Kodaikanal, and the deep boulder caves nearby. Misty viewpoints and pine forests make this a good extension to a Kodaikanal day.",
+    "budget_level": "low",
+    "best_season": "Apr-Jun, Sep-Nov",
+    "tags": ["viewpoint", "caves", "misty", "photography", "hill station"]
+  },
+  {
+    "name": "Meghamalai",
+    "district": "Theni",
+    "category": "nature",
+    "description": "The Cloud Mountain, a remote plateau of tea and cardamom estates, lakes and misty forests with very few tourists. Great for people who want silence and cool weather.",
+    "budget_level": "medium",
+    "best_season": "Oct-Mar",
+    "tags": ["tea estates", "misty", "quiet", "remote", "lakes"]
+  },
+  {
+    "name": "Suruli Falls",
+    "district": "Theni",
+    "category": "waterfall",
+    "description": "A tall waterfall in the Western Ghats near Cumbum that drops into a pool and feeds a cave temple. Best when the river flows well, with forest stalls and short walks nearby.",
+    "budget_level": "low",
+    "best_season": "Jun-Dec",
+    "tags": ["waterfall", "cave temple", "nature", "bathing", "forest"]
+  },
+  {
+    "name": "Thiruchendur Murugan Temple",
+    "district": "Thoothukudi",
+    "category": "temple",
+    "description": "A Murugan temple right on the Bay of Bengal shore, with a tall gopuram and sea-bathing before the darshan. Combines pilgrimage and beach atmosphere.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "seashore", "pilgrimage", "Murugan", "beach"]
+  },
+  {
+    "name": "Manapad",
+    "district": "Thoothukudi",
+    "category": "beach",
+    "description": "A quiet fishing village with a white church on a rocky point, long empty beaches and calm sea views. Good for sunsets, photography and relaxed seaside time.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["beach", "church", "quiet", "sunset", "fishing village"]
+  },
+  {
+    "name": "Kalakkad Mundanthurai Tiger Reserve",
+    "district": "Tirunelveli",
+    "category": "wildlife",
+    "description": "A large Western Ghats reserve of dense forest, rivers and waterfalls with tigers, elephants and lion-tailed macaques. Trekking and jeep trips need permits from the forest department.",
+    "budget_level": "medium",
+    "best_season": "Oct-Mar",
+    "tags": ["wildlife", "tiger reserve", "forest", "trekking", "waterfalls"]
+  },
+  {
+    "name": "Thiruparappu Falls",
+    "district": "Kanyakumari",
+    "category": "waterfall",
+    "description": "A broad, popular waterfall with a swimming pool beside it and a nearby Shiva temple. Easy to reach from Kanyakumari, ideal for a refreshing break from the heat.",
+    "budget_level": "low",
+    "best_season": "Jul-Dec",
+    "tags": ["waterfall", "swimming", "family", "temple", "nature"]
+  },
+  {
+    "name": "Padmanabhapuram Palace",
+    "district": "Kanyakumari",
+    "category": "heritage",
+    "description": "A wooden palace of the Travancore kings, known for its carved ceilings, mural paintings and polished floors. One of the finest examples of traditional Kerala-style architecture in Tamil Nadu.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["palace", "wood carving", "murals", "history", "architecture"]
+  },
+  {
+    "name": "Muttom Beach",
+    "district": "Kanyakumari",
+    "category": "beach",
+    "description": "A scenic beach with black rocks, a lighthouse and a dramatic meeting of waves and cliffs. Quieter than Kanyakumari and good for photography and sunset.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["beach", "lighthouse", "rocks", "sunset", "photography"]
+  },
+  {
+    "name": "Pamban Bridge",
+    "district": "Ramanathapuram",
+    "category": "heritage",
+    "description": "India's first sea bridge, connecting the mainland to Rameswaram island, with a railway lift span and a road bridge beside it. A great stop for sea views and photos on the way to Rameswaram.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["bridge", "sea view", "photography", "landmark", "railway"]
+  },
+  {
+    "name": "Thanjavur Maratha Palace and Saraswathi Mahal Library",
+    "district": "Thanjavur",
+    "category": "heritage",
+    "description": "A palace complex with the Durbar Hall, an art gallery of Chola bronzes and a library of rare manuscripts. A good indoor history stop in Thanjavur next to the Brihadeeswarar Temple.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["palace", "Chola bronzes", "museum", "manuscripts", "history"]
+  },
+  {
+    "name": "Airavatesvara Temple, Darasuram",
+    "district": "Thanjavur",
+    "category": "temple",
+    "description": "A 12th-century Chola temple in the UNESCO Great Living Chola Temples group, famous for its fine stone carvings and a chariot-shaped mandapa. Smaller and quieter than Thanjavur's big temple.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["UNESCO", "Chola", "carvings", "quiet", "temple"]
+  },
+  {
+    "name": "Nataraja Temple, Chidambaram",
+    "district": "Cuddalore",
+    "category": "temple",
+    "description": "An ancient Shiva temple dedicated to Nataraja, the dancing form, with four large gopurams and a golden-roofed sanctum. An important spiritual and cultural centre, easy to combine with Pichavaram.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "Shiva", "pilgrimage", "dance", "architecture"]
+  },
+  {
+    "name": "Rock Fort Temple, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "category": "temple",
+    "description": "A temple complex built on a massive rock rising over the city, reached by about 400 steps cut into the stone. The top gives panoramic views of Trichy and the Cauvery.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "rock fort", "views", "steps", "history"]
+  },
+  {
+    "name": "Tharangambadi (Tranquebar)",
+    "district": "Mayiladuthurai",
+    "category": "heritage",
+    "description": "A quiet seaside town with a 17th-century Danish fort, old colonial buildings and a calm beach. Relaxed, uncrowded and good for history and sea breeze.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["Danish fort", "beach", "colonial", "quiet", "history"]
+  },
+  {
+    "name": "Gingee Fort",
+    "district": "Viluppuram",
+    "category": "heritage",
+    "description": "A fortress spread across three hills, known as the Troy of the East, with granary, temples and a steep climb to the top. Great for trekking, sunrise and history lovers.",
+    "budget_level": "low",
+    "best_season": "Oct-Feb",
+    "tags": ["fort", "trekking", "history", "hill", "sunrise"]
+  }
+]
