@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Marina Beach",
+    "district": "Chennai",
+    "category": "beach",
+    "description": "One of the longest urban beaches in the country, stretching along Chennai's coast. Best at sunrise and evening for walks, street snacks like sundal and bajji, and watching the crowds. Swimming is unsafe because of strong currents.",
+    "budget_level": "low",
+    "best_season": "Nov-Feb",
+    "tags": ["beach", "city", "street food", "sunrise", "family"]
+  },
+  {
+    "name": "Kapaleeshwarar Temple",
+    "district": "Chennai",
+    "category": "temple",
+    "description": "A Shiva temple in Mylapore with a tall, colourfully sculpted Dravidian gopuram and a large temple tank. A peaceful cultural stop in the middle of the city, lively during festivals.",
+    "budget_level": "low",
+    "best_season": "Nov-Feb",
+    "tags": ["temple", "Dravidian architecture", "culture", "city"]
+  },
+  {
+    "name": "Mahabalipuram Shore Temple and Monuments",
+    "district": "Chengalpattu",
+    "category": "heritage",
+    "description": "A UNESCO World Heritage site of 7th and 8th century Pallava rock-cut temples, the Shore Temple by the sea, the Pancha Rathas and the Arjuna's Penance relief. Easy to explore in a day with a nearby beach and seafood.",
+    "budget_level": "low",
+    "best_season": "Nov-Feb",
+    "tags": ["UNESCO", "Pallava", "sculpture", "beach", "history"]
+  },
+  {
+    "name": "Meenakshi Amman Temple",
+    "district": "Madurai",
+    "category": "temple",
+    "description": "A vast temple complex with four towering, brightly painted gopurams and the Hall of Thousand Pillars. It sits at the heart of Madurai's old city and is busiest and most atmospheric in the evening ceremonies.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "Dravidian architecture", "culture", "pilgrimage", "history"]
+  },
+  {
+    "name": "Brihadeeswarar Temple",
+    "district": "Thanjavur",
+    "category": "temple",
+    "description": "A Chola-era Shiva temple built in the early 11th century, part of the UNESCO Great Living Chola Temples. Known for its huge vimana tower, giant Nandi statue and detailed carvings. A must for history and architecture lovers.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["UNESCO", "Chola", "architecture", "history", "temple"]
+  },
+  {
+    "name": "Gangaikonda Cholapuram",
+    "district": "Ariyalur",
+    "category": "temple",
+    "description": "A Chola temple built by Rajendra Chola I, also part of the Great Living Chola Temples. Quieter than Thanjavur, with fine sculptures and open lawns, good for travellers who want history without crowds.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["Chola", "UNESCO", "quiet", "history", "temple"]
+  },
+  {
+    "name": "Ramanathaswamy Temple",
+    "district": "Ramanathapuram",
+    "category": "temple",
+    "description": "A major pilgrimage temple on Rameswaram island, known for its extremely long pillared corridors and 22 holy wells inside the complex. Reached over the Pamban bridge with views of the sea.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["pilgrimage", "temple", "island", "sea", "corridors"]
+  },
+  {
+    "name": "Dhanushkodi",
+    "district": "Ramanathapuram",
+    "category": "beach",
+    "description": "The sandy tip of Rameswaram island, with the ruins of a town destroyed by the 1964 cyclone. Calm turquoise water on both sides, wide empty beaches and a stark, quiet atmosphere. Great for photography and sunrise.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["beach", "ruins", "quiet", "photography", "sunrise"]
+  },
+  {
+    "name": "Kanyakumari and Vivekananda Rock Memorial",
+    "district": "Kanyakumari",
+    "category": "beach",
+    "description": "The southern tip of India where three seas meet. Famous for sunrise and sunset views, a ferry ride to the Vivekananda Rock Memorial and the tall Thiruvalluvar statue. A popular, easy stop on any southern itinerary.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["sunrise", "sunset", "ferry", "landmark", "sea"]
+  },
+  {
+    "name": "Vattakottai Fort",
+    "district": "Kanyakumari",
+    "category": "heritage",
+    "description": "An 18th-century granite coastal fort with sea views and a breezy walk along its walls. Less crowded than the main Kanyakumari sights, good for a relaxed afternoon and sunset.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["fort", "sea view", "quiet", "sunset", "history"]
+  },
+  {
+    "name": "Ooty Botanical Garden and Lake",
+    "district": "The Nilgiris",
+    "category": "hill-station",
+    "description": "Ooty is a cool hill station in the Nilgiris. The Government Botanical Garden has terraced lawns, rare trees and flower displays, and the lake offers boating. Good for families and couples who want cool weather and gentle sightseeing.",
+    "budget_level": "medium",
+    "best_season": "Apr-Jun, Sep-Nov",
+    "tags": ["hill station", "garden", "boating", "family", "cool weather"]
+  },
+  {
+    "name": "Coonoor and the Nilgiri Mountain Railway",
+    "district": "The Nilgiris",
+    "category": "hill-station",
+    "description": "A quieter hill town than Ooty, with tea estates, Sim's Park and viewpoints like Dolphin's Nose. The heritage Nilgiri toy train from Mettupalayam is a scenic highlight. Ideal for slow, relaxed travel among greenery.",
+    "budget_level": "medium",
+    "best_season": "Apr-Jun, Sep-Nov",
+    "tags": ["hill station", "toy train", "tea estates", "quiet", "scenic"]
+  },
+  {
+    "name": "Mudumalai National Park",
+    "district": "The Nilgiris",
+    "category": "wildlife",
+    "description": "A tiger reserve with forests and grasslands where you can see elephants, deer, gaur and sometimes tigers on jeep safaris. Forest stays nearby make it good for a nature-focused trip.",
+    "budget_level": "medium",
+    "best_season": "Oct-Jun",
+    "tags": ["wildlife", "safari", "elephants", "tiger reserve", "forest"]
+  },
+  {
+    "name": "Kodaikanal Lake and Coaker's Walk",
+    "district": "Dindigul",
+    "category": "hill-station",
+    "description": "Kodaikanal is a misty hill station built around a star-shaped lake. Popular activities are boating, cycling around the lake and the cliff-edge Coaker's Walk with valley views. Pine forests and waterfalls are nearby.",
+    "budget_level": "medium",
+    "best_season": "Apr-Jun, Sep-Nov",
+    "tags": ["hill station", "lake", "boating", "misty", "couples", "family"]
+  },
+  {
+    "name": "Yercaud",
+    "district": "Salem",
+    "category": "hill-station",
+    "description": "A small, affordable hill station in the Shevaroy Hills with coffee estates, a lake, Lady's Seat viewpoint and orchards. Less touristy and cheaper than Ooty or Kodaikanal, good for a short weekend break.",
+    "budget_level": "low",
+    "best_season": "Oct-Jun",
+    "tags": ["hill station", "coffee", "budget", "weekend", "viewpoint"]
+  },
+  {
+    "name": "Hogenakkal Falls",
+    "district": "Dharmapuri",
+    "category": "waterfall",
+    "description": "Where the Cauvery river breaks into many channels and drops over rocky gorges. Known for coracle boat rides and fresh river fish meals on the banks. Best visited when the river has good flow.",
+    "budget_level": "low",
+    "best_season": "Aug-Dec",
+    "tags": ["waterfall", "coracle ride", "river", "adventure", "family"]
+  },
+  {
+    "name": "Courtallam Falls",
+    "district": "Tenkasi",
+    "category": "waterfall",
+    "description": "A group of waterfalls in the Western Ghats foothills, popular for bathing and nicknamed the spa of the south. Lively and green in the monsoon season, with local snack stalls and temples nearby.",
+    "budget_level": "low",
+    "best_season": "Jun-Sep",
+    "tags": ["waterfall", "bathing", "monsoon", "nature", "family"]
+  },
+  {
+    "name": "Srirangam Ranganathaswamy Temple",
+    "district": "Tiruchirappalli",
+    "category": "temple",
+    "description": "A very large Vishnu temple complex on an island in the Cauvery river, with 21 gopurams and concentric walls. One of the biggest functioning temples in the country, with a strong atmosphere of pilgrimage.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["temple", "pilgrimage", "Vishnu", "architecture", "river"]
+  },
+  {
+    "name": "Chettinad Mansions and Cuisine",
+    "district": "Sivaganga",
+    "category": "heritage",
+    "description": "The Karaikudi region is known for grand merchant mansions with teak pillars and Athangudi tiles, antique markets and spicy Chettinad cooking. A good choice for food lovers and travellers who like heritage stays.",
+    "budget_level": "medium",
+    "best_season": "Oct-Mar",
+    "tags": ["mansions", "food", "spicy cuisine", "heritage stay", "antiques"]
+  },
+  {
+    "name": "Arunachaleswarar Temple and Girivalam",
+    "district": "Tiruvannamalai",
+    "category": "temple",
+    "description": "A large Shiva temple at the foot of the sacred Arunachala hill. Pilgrims walk around the hill on the Girivalam path, especially on full-moon nights, and the Karthigai Deepam festival lights a flame on the summit.",
+    "budget_level": "low",
+    "best_season": "Oct-Feb",
+    "tags": ["pilgrimage", "temple", "hill walk", "spiritual", "festival"]
+  },
+  {
+    "name": "Valparai Tea Estates",
+    "district": "Coimbatore",
+    "category": "nature",
+    "description": "A quiet plateau in the Anamalai hills reached by a road with about 40 hairpin bends. Rolling tea estates, misty viewpoints and wildlife such as lion-tailed macaques and sometimes elephants. Great for slow, nature-focused trips.",
+    "budget_level": "medium",
+    "best_season": "Oct-Mar",
+    "tags": ["tea estates", "hairpin bends", "quiet", "wildlife", "scenic drive"]
+  },
+  {
+    "name": "Pichavaram Mangrove Forest",
+    "district": "Cuddalore",
+    "category": "nature",
+    "description": "One of the largest mangrove forests in India, with boat rides through narrow water channels between small islands of trees. A calm, scenic half-day trip good for birdwatching and photography.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["mangrove", "boating", "birdwatching", "photography", "quiet"]
+  },
+  {
+    "name": "Auroville and Matrimandir",
+    "district": "Viluppuram",
+    "category": "nature",
+    "description": "An experimental township founded in 1968, known for the golden Matrimandir meditation dome set among gardens. Visitors can walk the grounds, visit cafes and craft shops, and join meditation or volunteer programmes.",
+    "budget_level": "medium",
+    "best_season": "Oct-Mar",
+    "tags": ["meditation", "township", "cafes", "peaceful", "experimental community"]
+  },
+  {
+    "name": "Kailasanathar Temple, Kanchipuram",
+    "district": "Kanchipuram",
+    "category": "temple",
+    "description": "An 8th-century Pallava sandstone temple, among the oldest structural temples in the south, with rows of small shrines and carved panels. Kanchipuram is also famous for its silk sarees, so shopping pairs well with temple visits.",
+    "budget_level": "low",
+    "best_season": "Oct-Mar",
+    "tags": ["Pallava", "temple", "silk sarees", "history", "architecture"]
+  }
+]
